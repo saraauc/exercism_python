@@ -1,3 +1,4 @@
+#https://exercism.org/tracks/python/exercises/high-scores
 class HighScores:
     def __init__(self,scores):
         self.scores=scores
